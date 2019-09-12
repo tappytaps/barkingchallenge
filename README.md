@@ -1,5 +1,5 @@
 # Barkio barking challenge
-## Proč to děláme
+## Proč to děláme - co je Barkio
 
 ## Co je cílem
 - rozpoznat štěkání v MP3
