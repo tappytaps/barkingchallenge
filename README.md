@@ -10,9 +10,10 @@ Samotné vyhodnocení proběhne na jiném, nyní "tajném" souboru.
 - naklonuj si toto repozitory
 - napiš program v libovolném jazyce, který analyzuje audio a na výstup vypíše JSON s výsledky
 - samotný dektekční program musí běžet bez internetové sítě (případná instalace / konfigurace samozřejmě sít k dispozici mít bude)
-- v tvém naklonovaném repozitáři připrav sobor install.sh nebo install.bat, který spustí instalaci / konfiguraci aplikace a 
+- aplikace musí běžet v unixovém prostředí. Na Windows můžeš použít např. Docker nebo Windows Subsystem for Linux.
+- v tvém naklonovaném repozitáři připrav sobor install.sh, který spustí instalaci / konfiguraci aplikace a 
 také soubor INSTALL, kde bude napsané, jak je potřeba připravit prostředí (např. NodeJS 10.0, Python atd.)
-- v tvém naklonovaném repozitáři připrav sobor run.sh nebo run.bat, který akceptuje 1 parametr - cestu k MP3. Tento skript spustí
+- v tvém naklonovaném repozitáři připrav sobor run.sh, který akceptuje 1 parametr - cestu k MP3. Tento skript spustí
 analýzu souboru a na standardní výstup vypíše výsledek analýzy ve formátu JSON
 - tvoje řešení bude veřejné, zůstane na GitHubu a bude ho moci kdokoliv v budouocnu použít (nejen TappyTaps)
 
