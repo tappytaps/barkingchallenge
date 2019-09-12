@@ -29,13 +29,28 @@ We want to help the dog owners when they’re not at home (e.g., traveling, work
 * The total rating will be given by a percentage (number of points / X * 2) * 100 
 * The order of the winners will be determined by the number of points. If two or more participants reach the same number of points, the order of the winners will be determined by the speed of the processing (how long it takes the program to detect the barking).
 
-## Example
+## Example of point calculation
 The tested MP3 file contains 10 intervals of the dog's barking. The tested algorithm identifies 9 starting points of the barking intervals. It also correctly identifies a length of 7 of those 9 intervals. The algorithm wrongly identifies 1 non-barking interval as barking.
 * Maximum points possible: 20
 * Points for barking recognition: 9
 * Points for correct interval length: 7
 * Penalty points for wrong identification: -1
 * **The overall score is (9 + 7 -1) / 20 * 100 = 75%**
+
+## Example of JSON result file
+```json
+{
+  {
+     "start": 3000,
+     "duration: 1500
+  }
+  {  
+     "start": 7500,
+     "duration: 2500
+  }
+}
+```
+This result file contains 2 barking intervals, one started at 3.0 second with duration of 1.5 second, second started at 7.5 second with duration of 2.5 second. Start time is always relative to start of MP3 file, all time values are in miliseconds, integers.
 
 ## Prizes
 * **$500 USD** for the best algorithm which gets at least 60% in the evaluation process
