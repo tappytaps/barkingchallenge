@@ -1,5 +1,5 @@
 # Barkio Barking Detection Challenge
-Welcome to Barkio Barking Detection Challenge! We are TappyTaps, a small developer company of mobile apps. We are now launching a new dog monitoring app called Barkio and we'd like your help.
+Welcome to Barkio Barking Detection Challenge! We are TappyTaps, a small developer company of mobile apps. We are now launching a new dog monitoring app called Barkio and we are running (hopefully) an interesting challenge for you. 
 
 ## What is Barkio
 Barkio is an app for mobile and desktop, which will help the pet owners with monitoring their dogs. The app comes in handy when the dog owners are at work or when traveling. They can easily stay in touch with their dog and interact with it remotely. Besides video and audio monitoring, the app tells the dog owner whether the dog is quiet (resting) or whether some noise was detected. As of now, the app can detect the noise, but it cannot recognize whether the noise was barking or something else.
