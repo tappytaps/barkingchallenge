@@ -15,7 +15,7 @@ Samotné vyhodnocení proběhne na jiném, nyní "tajném" souboru.
 také soubor INSTALL, kde bude napsané, jak je potřeba připravit prostředí (např. NodeJS 10.0, Python atd.)
 - v tvém naklonovaném repozitáři připrav sobor run.sh, který akceptuje 1 parametr - cestu k MP3. Tento skript spustí
 analýzu souboru a na standardní výstup vypíše výsledek analýzy ve formátu JSON
-- tvoje řešení bude veřejné, zůstane na GitHubu a bude ho moci kdokoliv v budouocnu použít (nejen TappyTaps)
+- tvoje řešení bude veřejné, zůstane na GitHubu a bude ho moci kdokoliv v budoucnu svobodně použít (nejen TappyTaps)
 
 ## Vyhodnocení
 - v souboru bude X částí se stěkáním, za každou detekci správné části získá účastník 1 bod
