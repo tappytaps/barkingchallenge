@@ -11,14 +11,15 @@ We want to help the dog owners when they’re not at home (e.g., traveling, work
 * create a program which identifies barking intervals in the MP3 file and the length of each interval
 * **NOTE**: Feel free to use the MP3 [file we've provided](https://github.com/tappytaps/barkingchallenge/blob/master/Barkio-Barking-Detection-Challange-1.mp3?raw=true) to test the algorithm or test it on any barking sounds of your choice. The evaluation of the algorithm will be performed on a different MP3 file.
 
-## Rules of the challenge
-* Clon this repository
+## How to participate
+* Clone this repository
 * Write a program in a language of your choice that analyzes audio and the output creates a JSON with the results
 * The detection program itself must be running without the internet network (any installation/configuration will, of course, have access to the internet network)
 * The application must be running in a Unix environment. On Windows, you can use for example Docker or Windows Subsystem for Linux.
 * Prepare the install.sh file in your cloned repository to run the installation/configuration of the app and also a file INSTALL, where will be written how the environment should be prepared (e.g., Node JS 10.0, Python, etc.).
 * In your cloned repository, prepare a run.sh file which accepts 1 parameter - the path to MP3. This script will run an analysis of the file and will write the result of the analysis in JSON format to the standard output 
 * Your solution will be publicly available on GitHub and anyone can use it in the future without any restrictions (not just TappyTaps).
+* Send us the sollution (link to your git repository) till **15th November 2019** at info@tappytaps.com.
 
 ## Evaluation of the algorithm
 * The MP3 file contains X intervals of dog's barking; for each correct detection of the barking part, the participant gets 1 point  
@@ -36,7 +37,7 @@ The tested MP3 file contains 10 intervals of the dog's barking. The tested algor
 * Penalty points for wrong identification: -1
 * **The overall score is (9 + 7 -1) / 20 * 100 = 75%**
 
-## Prices
+## Prizes
 * **$500 USD** for the best algorithm which gets at least 60% in the evaluation process
 * **$300 USD** for the second-best algorithm which gets at least 60% in the evaluation process
 * **$100 USD** for the third-best algorithm which gets at least 60% in the evaluation process
