@@ -9,7 +9,7 @@ We want to help the dog owners when they’re not at home (e.g., traveling, work
 
 ## The goal
 * create a program which identifies barking intervals in the MP3 file and the length of each interval
-* **NOTE**: Feel free to use the MP3 [file we've provided](Barkio-Barking-Detection-Challange-1.mp3) to test the algorithm or test it on any barking sounds of your choice. The evaluation of the algorithm will be performed on a different MP3 file.
+* **NOTE**: Feel free to use the MP3 [file we've provided](https://github.com/tappytaps/barkingchallenge/blob/master/Barkio-Barking-Detection-Challange-1.mp3?raw=true) to test the algorithm or test it on any barking sounds of your choice. The evaluation of the algorithm will be performed on a different MP3 file.
 
 ## Rules of the challenge
 * Clon this repository
