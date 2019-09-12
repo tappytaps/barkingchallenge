@@ -39,16 +39,16 @@ The tested MP3 file contains 10 intervals of the dog's barking. The tested algor
 
 ## Example of JSON result file
 ```json
-{
+[
   {
      "start": 3000,
      "duration: 1500
-  }
+  },
   {  
      "start": 7500,
      "duration: 2500
   }
-}
+]
 ```
 This result file contains 2 barking intervals, one started at 3.0 second with duration of 1.5 second, second started at 7.5 second with duration of 2.5 second. Start time is always relative to start of MP3 file, all time values are in miliseconds, integers.
 
