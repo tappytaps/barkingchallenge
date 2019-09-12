@@ -21,7 +21,7 @@ We want to help the dog owners when they’re not at home (e.g., traveling, work
 * Your solution will be publicly available on GitHub and anyone can use it in the future (not just TappyTaps).
 
 ## Evaluation of the algorithm
-* The mp3 file contains X intervals of dog's barking; for each correct detection of the barking part, the participant gets 1 point  
+* The MP3 file contains X intervals of dog's barking; for each correct detection of the barking part, the participant gets 1 point  
 * For each false detection, the participant loses 1 point 
 * For each correctly detected length of the barking interval, the participant gets 1 point 
 * Tolerance of when the barking interval starts is +- 1 second, tolerance of the interval length identification is +- 2 seconds 
