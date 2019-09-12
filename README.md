@@ -42,11 +42,11 @@ The tested MP3 file contains 10 intervals of the dog's barking. The tested algor
 [
   {
      "start": 3000,
-     "duration: 1500
+     "duration": 1500
   },
   {  
      "start": 7500,
-     "duration: 2500
+     "duration": 2500
   }
 ]
 ```
