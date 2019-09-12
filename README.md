@@ -1,5 +1,5 @@
 # Barkio Barking Detection Challenge
-Welcome to Barkio Barking Detection Challenge! We are TappyTaps, a developer company of mobile apps. We are now launching a new dog monitoring app called Barkio and we are running (hopefully) an interesting challenge for you. 
+Welcome to Barkio Barking Detection Challenge! We are TappyTaps, a developer company of mobile apps. We are now launching a new dog monitoring app called [Barkio|https://barkio.com] and we are running (hopefully) an interesting challenge for you. 
 
 ## What is Barkio
 Barkio is a new app launching soon for mobile and desktop, which will help the pet owners with monitoring their dogs. The app comes in handy when the dog owners are at work or when traveling as they can easily stay in touch with their dog and interact with it remotely. Besides video and audio monitoring, the app tells the dog owner whether the dog is quiet (resting) or whether some noise was detected. As of now, the app can detect the noise, but it cannot recognize whether the noise was barking or something else.
@@ -9,7 +9,7 @@ We want to help the dog owners when they’re not at home (e.g., traveling, work
 
 ## The goal
 * create a program which identifies barking intervals in the MP3 file and the length of each interval
-* **NOTE**: Feel free to use the MP3 file we've provided to test the algorithm or test it on any barking sounds of your choice. The evaluation of the algorithm will be performed on a different MP3 file.
+* **NOTE**: Feel free to use the MP3 [file we've provided](Barkio-Barking-Detection-Challange-1.mp3) to test the algorithm or test it on any barking sounds of your choice. The evaluation of the algorithm will be performed on a different MP3 file.
 
 ## Rules of the challenge
 * Clon this repository
