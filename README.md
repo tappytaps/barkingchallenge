@@ -19,7 +19,7 @@ We want to help the dog owners when they’re not at home (e.g., traveling, work
 * Prepare the install.sh file in your cloned repository to run the installation/configuration of the app and also a file INSTALL, where it will be written how the environment should be prepared (e.g., Node JS 10.0, Python, etc.).
 * In your cloned repository, prepare a run.sh file which accepts 1 parameter - the path to MP3. This script will run an analysis of the file and will then write the result of the analysis in JSON format to the standard output.
 * Your solution will be publicly available on GitHub and anyone can use it in the future without any restrictions (not just TappyTaps).
-* Send us the solution (link to your git repository) by **November, 15th 2019** at info@tappytaps.com.
+* Send us the solution (link to your git repository) by **September 30th, 2019 at 12PM GMT** at info@tappytaps.com.
 
 ## Evaluation of the algorithm
 * The MP3 file contains X intervals of dog's barking; for each correct detection of the barking part, the participant gets 1 point  
